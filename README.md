@@ -7,4 +7,4 @@ You need **[Unreal Engine 5](https://www.unrealengine.com/en-US/download) in ord
 * **You can also improve the game and make better game with this project, so thats why i published for free.**
 
 ## How to open the project?
-Just extract the whole zip and just open the MyProject.uproject
+Just extract the zip and just open the MyProject.uproject
