@@ -4,7 +4,7 @@
 You need **[Unreal Engine 5](https://www.unrealengine.com/en-US/download)**
 
 ## What's your point of doing this Game/Project
-* **Because, when i looked up the internet i really cant find the roll a ball game project as free so i decided to make myself.**
+* **Because, when i looked up the internet i really cant find the roll a ball game project for free so i decided to make myself.**
 * **You can also improve the game and make better game with this project, so thats why i published for free.**
 
 ## How to open the project?
