@@ -19,8 +19,5 @@
 
 - You can improve the game and make better game with this project, so thats why i published for free.
 
-<b>Are you update the game?</b>
-- I will not gonna update the project again because its just a test project, 
-
 
 
