@@ -36,6 +36,8 @@ https://github.com/Stathor/ue5-roll-a-ball-game/assets/146978592/bd9136f4-73fc-4
 
 https://github.com/Stathor/ue5-roll-a-ball-game/assets/146978592/724b76bd-5060-41d2-9bc4-967bee348aa8
 
+Dont forget the save the project after finishing.
+
 
 
 
