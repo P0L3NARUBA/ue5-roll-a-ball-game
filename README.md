@@ -5,6 +5,8 @@
 
 > [!NOTE]
 > You don't need to give credit, just dont say the system made by yours.
+> 
+> **As 12.20.2023, The project got fixed and cleared all the bugs that appear.**
 
 **Questions And Answers (Q&A)** :
 
