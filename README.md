@@ -6,7 +6,7 @@
 > [!NOTE]
 > You don't need to give credit, just dont say the system made by yours.
 > 
-> **As 12.20.2023, The project got fixed and cleared all the bugs that appear.**
+> **12.20.2023, The project got fixed and cleared all the bugs that appear.**
 
 **Questions And Answers (Q&A)** :
 
@@ -22,6 +22,20 @@
 <b>Whats next? </b>
 
 - You can improve the game and make better game with this project, so thats why i published for free.
+
+
+<b> Things that you need to know for developing the game </b>
+
+* You can just delete the "GROUND" Tag For Cant Jump Again when touching.
+
+**Before Deleting The Tag:**
+  
+https://github.com/Stathor/ue5-roll-a-ball-game/assets/146978592/bd9136f4-73fc-4b29-961a-be3af5ebf3f6
+
+**After Deleting The Tag:**
+
+https://github.com/Stathor/ue5-roll-a-ball-game/assets/146978592/724b76bd-5060-41d2-9bc4-967bee348aa8
+
 
 
 
